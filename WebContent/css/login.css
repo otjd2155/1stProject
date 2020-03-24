@@ -1,0 +1,51 @@
+@charset "UTF-8";
+#wrap {
+	top: 200px;
+	height: 500px;
+}
+#wrap .login{
+		height: 400px;
+		width: 800px;
+		margin: 0 auto;
+		font-family: 'Noto Sans KR', sans-serif;
+	}
+#wrap .login table{
+	margin: 0 auto;
+}
+#wrap .login table th{
+	text-align: left;
+	width: 100px;
+}
+#wrap .login table td{
+	text-align: left;
+	padding: 5px;
+}
+h3{
+	padding : 30px 0;
+	text-align: center;
+}
+.lbtn{
+	width: 80px;
+	height: 60px;
+	background-color: black;
+	border-radius: 5px;
+	color: white;
+	border: 0px;
+}
+#wrap .login p{  
+	padding-top: 25px;
+	text-align: center;
+}
+.jbtn{
+	width: 200px;
+	height: 40px;
+	background-color: black;
+	border-radius: 5px 5px;
+	color: white;
+	border: 0px;
+}
+hr{ 
+	width: 400px;
+	margin: 0 auto;
+	border-color: black;
+}
